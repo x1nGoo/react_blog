@@ -1,0 +1,22 @@
+.header {
+  height: 48px;
+  background-color: #fff;
+  box-shadow: 0 1px 4px rgba(89, 90, 89, 0.28);
+  overflow: hidden;
+}
+.header-left {
+  display: flex;
+  align-items: baseline;
+  height: 100%;
+}
+.header-logo {
+  color: #1e90ff;
+  font-size: 28px;
+  text-align: left;
+}
+.header-txt {
+  display: inline-block;
+  padding-left: 12px;
+  font-size: 12px;
+  color: #999;
+}
